@@ -1,0 +1,14 @@
+{
+    "direcao_otimizacao": -1,
+    "coeficientes_objetivo": [3.0, 5.0, 4.0, 2.0, 6.0, 1.0],
+    "matriz_restricoes": [
+        [2.0, 1.0, 3.0, 7.0, 8.0, 99.0],
+        [1.0, 3.0, 1.0, 44.0, 66.0, 45.0],
+        [1.0, 23.0, 4.0, 1.0, 345.0, 55.0],
+        [0.0, 1.0, 345.0, 2.0, 3.0, 1.0]
+    ],
+    "lados_direitos": [10.0, 12.0, 15.0, 20.0],
+    "tipos_restricoes": ["L", "L", "L", "L"],
+    "limites_inferiores": null,
+    "limites_superiores": null
+}
